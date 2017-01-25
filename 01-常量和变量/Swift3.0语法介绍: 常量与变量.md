@@ -22,7 +22,7 @@ e = 4
 
 ```
 
-!()[https://github.com/CalvinCheungCoder/Swift/blob/master/01-%E5%B8%B8%E9%87%8F%E5%92%8C%E5%8F%98%E9%87%8F/01_01.png]
+!(https://github.com/CalvinCheungCoder/Swift/blob/master/01-%E5%B8%B8%E9%87%8F%E5%92%8C%E5%8F%98%E9%87%8F/01_01.png)[]
 
 #### 变量
 
