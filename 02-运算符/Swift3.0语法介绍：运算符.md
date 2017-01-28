@@ -19,6 +19,8 @@ var g = a % b
 
 ```
 
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/02-%E8%BF%90%E7%AE%97%E7%AC%A6/02_01.png)
+
 ##### 比较运算符
 
 ```Swift
@@ -40,4 +42,6 @@ if (string1 == string2) {
     print("string1 is NOT equal to string2")
 }
 ```
+
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/02-%E8%BF%90%E7%AE%97%E7%AC%A6/02_02.png)
 
