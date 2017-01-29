@@ -4,3 +4,5 @@
 
 [02-Swift3.0语法介绍: 运算符](https://github.com/CalvinCheungCoder/Swift/tree/master/02-%E8%BF%90%E7%AE%97%E7%AC%A6)
 
+[03-Swift3.0语法介绍: 循环](https://github.com/CalvinCheungCoder/Swift/blob/master/03-%E5%BE%AA%E7%8E%AF/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E5%BE%AA%E7%8E%AF.md)
+
