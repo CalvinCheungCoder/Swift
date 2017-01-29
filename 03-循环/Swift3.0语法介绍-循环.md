@@ -12,6 +12,8 @@ for i in 0 ..< 10 {
 }
 ```
 
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/03-%E5%BE%AA%E7%8E%AF/03_01.png)
+
 #### forin循环
 
 ```Swift
@@ -26,6 +28,8 @@ for var string in names {
 }
 ```
 
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/03-%E5%BE%AA%E7%8E%AF/03_02.png)
+
 #### while循环
 
 ```Swift
@@ -36,5 +40,6 @@ while j < 5 {
 }
 ```
 
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/03-%E5%BE%AA%E7%8E%AF/03_03.png)
 
 
