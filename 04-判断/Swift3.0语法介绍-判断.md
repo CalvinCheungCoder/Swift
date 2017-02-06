@@ -19,6 +19,7 @@ if i>=100 && j>=200 {
     print("NO!")
 }
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/04-%E5%88%A4%E6%96%AD/04_01.png)
 
 #### switch判断
 
@@ -39,4 +40,6 @@ default:
     break
 }
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/04-%E5%88%A4%E6%96%AD/04_02.png)
+
 
