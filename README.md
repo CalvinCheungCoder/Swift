@@ -6,3 +6,5 @@
 
 [03-Swift3.0语法介绍: 循环](https://github.com/CalvinCheungCoder/Swift/blob/master/03-%E5%BE%AA%E7%8E%AF/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E5%BE%AA%E7%8E%AF.md)
 
+[04-Swift3.0语法介绍: 判断](https://github.com/CalvinCheungCoder/Swift/blob/master/04-%E5%88%A4%E6%96%AD/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E5%88%A4%E6%96%AD.md)
+
