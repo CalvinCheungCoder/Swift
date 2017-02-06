@@ -1,6 +1,6 @@
 # Swift 语法基础
 
-文章根据[99ios](http://www.99ios.com/index.php/author/1/)Blog整理，只用做个人整理与学习。
+> 文章根据[99ios](http://www.99ios.com/index.php/author/1/)Blog整理，只用做个人整理与学习。
 
 
 序号 | 标题
