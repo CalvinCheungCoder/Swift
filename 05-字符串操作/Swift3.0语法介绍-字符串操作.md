@@ -14,6 +14,7 @@ string3
 var string4 = string2
 string4
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/05-%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%93%8D%E4%BD%9C/05_01.png)
 
 #### 字符串操作
 
@@ -53,9 +54,11 @@ let string11 = "hello world"
 var stringLength = string11.characters.count
 
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/05-%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%93%8D%E4%BD%9C/05_02.png)
 
 #### 字符串转换
 
+```Swift
 //int转string
 var number12 = 123
 var string12 = String(number12)
@@ -63,5 +66,6 @@ var string12 = String(number12)
 //string转int
 let string13 = "123"
 var number13 = Int(string13)
-
+```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/05-%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%93%8D%E4%BD%9C/05_03.png)
 
