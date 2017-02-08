@@ -17,6 +17,7 @@ error: type of expression is ambiguous without more context
 let array4 = [1,2,"Tom"]
 */
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/06-%E5%B8%B8%E9%87%8F%E6%95%B0%E7%BB%84/06_01.png)
 
 #### 常量数组的操作
 
@@ -47,4 +48,6 @@ var firstObj = array1.first
 var lastObj = array1.last
 
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/06-%E5%B8%B8%E9%87%8F%E6%95%B0%E7%BB%84/06_02.png)
+
 
