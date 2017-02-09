@@ -8,6 +8,7 @@ dict1 = ["Math":98, "English": 80]
 var dict2:[String: String]
 dict2 = ["Math":"98", "English": "80"]
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/07-%E5%AD%97%E5%85%B8/07-01.png)
 
 #### 字典操作
 
@@ -32,6 +33,7 @@ dict1
 dict1.removeValue(forKey: "NewCourse")
 dict1
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/07-%E5%AD%97%E5%85%B8/07_02.png)
 
 #### 迭代字典
 
@@ -40,5 +42,5 @@ for (key, value) in dict2 {
     print(key, value)
 }
 ```
-
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/07-%E5%AD%97%E5%85%B8/07_03.png)
 
