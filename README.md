@@ -12,4 +12,6 @@
 05 | [Swift3.0语法介绍: 字符串操作](https://github.com/CalvinCheungCoder/Swift/blob/master/05-%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%93%8D%E4%BD%9C/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%93%8D%E4%BD%9C.md)
 06 | [Swift3.0语法介绍: 常量数组](https://github.com/CalvinCheungCoder/Swift/blob/master/06-%E5%B8%B8%E9%87%8F%E6%95%B0%E7%BB%84/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E5%B8%B8%E9%87%8F%E6%95%B0%E7%BB%84.md)
 07 | [Swift3.0语法介绍: 字典](https://github.com/CalvinCheungCoder/Swift/blob/master/07-%E5%AD%97%E5%85%B8/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E5%AD%97%E5%85%B8.md)
+08 | [Swift3.0语法介绍: 变量数组](https://github.com/CalvinCheungCoder/Swift/blob/master/08-%E5%8F%98%E9%87%8F%E6%95%B0%E7%BB%84/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E5%8F%98%E9%87%8F%E6%95%B0%E7%BB%84%20.md)
+
 
