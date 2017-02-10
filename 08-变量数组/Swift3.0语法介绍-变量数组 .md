@@ -8,6 +8,7 @@ array1 = ["Tom","Jack","Jim"]
 //变量数组
 var array2 = array1
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/08-%E5%8F%98%E9%87%8F%E6%95%B0%E7%BB%84/08-01.png)
 
 #### 变量数组的操作
 
@@ -34,5 +35,5 @@ var array4 = ["hi","Objective-C"]
 array4 += array3
 array4
 ```
-
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/08-%E5%8F%98%E9%87%8F%E6%95%B0%E7%BB%84/08-02.png)
 
