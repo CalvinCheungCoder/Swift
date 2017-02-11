@@ -11,6 +11,7 @@ let myAdd = add
 
 var result = myAdd(1, 2)
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/09-%E5%87%BD%E6%95%B0%E5%AF%B9%E8%B1%A1/09-01.png)
 
 #### 2.函数作为返回值
 ```Swift
@@ -36,6 +37,7 @@ operation(operationType: "add")(3,4)
 let returnFunc = operation(operationType: "add")
 result = returnFunc(3,4)
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/09-%E5%87%BD%E6%95%B0%E5%AF%B9%E8%B1%A1/09-02.png)
 
 #### 3.函数作为参数
 ```Swift
@@ -62,5 +64,5 @@ func comparePlus(funcParam:(Int, Int) ->Int,a:Int, b:Int) -> Int {
 comparePlus(funcParam: largeNumber, a: 3, b: 4)
 comparePlus(funcParam: smallNumber, a: 3, b: 4)
 ```
-
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/09-%E5%87%BD%E6%95%B0%E5%AF%B9%E8%B1%A1/09-03.png)
 
