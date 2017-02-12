@@ -20,6 +20,7 @@ func addWithDefaultValue(a:Int = 0, b:Int = 1) -> Int {
     return a + b
 }
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/10-%E5%87%BD%E6%95%B0func%E5%9F%BA%E7%A1%80/10-01.png)
 
 #### 2.函数调用
 
