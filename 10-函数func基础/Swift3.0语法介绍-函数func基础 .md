@@ -37,6 +37,7 @@ printName(firstName: "Hi", lastName: "Swift")
 addWithDefaultValue()
 addWithDefaultValue(a: 2) // b取默认值，a取2
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/10-%E5%87%BD%E6%95%B0func%E5%9F%BA%E7%A1%80/10-02.png)
 
 #### 3.参数与返回值
 
@@ -75,4 +76,6 @@ func func5(words:String...) {
 func5(words: "Hello", "World")
 func5(words: "Hi")
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/10-%E5%87%BD%E6%95%B0func%E5%9F%BA%E7%A1%80/10-03.png)
+
 
