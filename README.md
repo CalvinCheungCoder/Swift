@@ -14,5 +14,5 @@
 07 | [Swift3.0语法介绍: 字典](https://github.com/CalvinCheungCoder/Swift/blob/master/07-%E5%AD%97%E5%85%B8/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E5%AD%97%E5%85%B8.md)
 08 | [Swift3.0语法介绍: 变量数组](https://github.com/CalvinCheungCoder/Swift/blob/master/08-%E5%8F%98%E9%87%8F%E6%95%B0%E7%BB%84/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E5%8F%98%E9%87%8F%E6%95%B0%E7%BB%84%20.md)
 09 | [Swift3.0语法介绍: 函数对象](https://github.com/CalvinCheungCoder/Swift/blob/master/09-%E5%87%BD%E6%95%B0%E5%AF%B9%E8%B1%A1/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E5%87%BD%E6%95%B0%E5%AF%B9%E8%B1%A1.md)
-
+10 | [Swift3.0语法介绍: 函数func基础](https://github.com/CalvinCheungCoder/Swift/blob/master/10-%E5%87%BD%E6%95%B0func%E5%9F%BA%E7%A1%80/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E5%87%BD%E6%95%B0func%E5%9F%BA%E7%A1%80%20.md)
 
