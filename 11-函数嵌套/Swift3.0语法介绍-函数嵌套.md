@@ -24,5 +24,5 @@ func operation(operationType:String, a:Int, b: Int) -> Int {
 
 operation(operationType: "add", a: 1, b: 2)
 ```
-
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/11-%E5%87%BD%E6%95%B0%E5%B5%8C%E5%A5%97/11-01.png)
 
