@@ -17,6 +17,7 @@ let minusClosure = {
     return num1 - num2
 }
 ```
+
 #### 把闭包作为函数的输入参数
 
 ```Swift
@@ -31,4 +32,5 @@ func calc(num1:Int, num2:Int, closure:(Int, Int) ->Int) -> Int {
 let result1 = calc(num1: 100, num2: 200, closure: addClosure)
 let result2 = calc(num1: 100, num2: 200, closure: minusClosure)
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/12-%E9%97%AD%E5%8C%85closure/12-01.png)
 

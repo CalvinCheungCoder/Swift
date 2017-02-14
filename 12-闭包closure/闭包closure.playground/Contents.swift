@@ -24,3 +24,4 @@ func calc(num1:Int, num2:Int, closure:(Int, Int) ->Int) -> Int {
 // 调用函数，把闭包作为参数传入
 let result1 = calc(num1: 100, num2: 200, closure: addClosure)
 let result2 = calc(num1: 100, num2: 200, closure: minusClosure)
+
