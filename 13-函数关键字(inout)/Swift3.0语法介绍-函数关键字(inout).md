@@ -15,6 +15,7 @@ dynamicName
 function4(name: &dynamicName)
 dynamicName
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/13-%E5%87%BD%E6%95%B0%E5%85%B3%E9%94%AE%E5%AD%97(inout)/13-01.png)
 
 > var（swift3.0已经废弃）
 
