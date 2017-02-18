@@ -61,4 +61,5 @@ student.sleep()
 student.study()
 
 // 调用子类重写的方法
+student.eat(food: "rice")
 
