@@ -51,4 +51,6 @@ person.nationality
 person.sleep()
 person.eat(food: "rice")
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/15-%E7%B1%BB%E7%9A%84%E5%AE%9A%E4%B9%89/15-01.png)
+
 
