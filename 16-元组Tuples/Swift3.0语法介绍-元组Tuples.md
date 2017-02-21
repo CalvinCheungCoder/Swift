@@ -14,6 +14,7 @@ var height:Double = 1.75
 var weight:Double = 65.0
 var person3 = ("jack",34, height, weight)
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/16-%E5%85%83%E7%BB%84Tuples/16-01.png)
 
 ##### 元组中数据的访问
 ```Swift
@@ -27,6 +28,7 @@ person2.name
 person2.sex
 person2.age
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/16-%E5%85%83%E7%BB%84Tuples/16-02.png)
 
 ##### 元组中数据的修改
 ```Swift
@@ -45,5 +47,5 @@ person3.3
 person3.3 = 80
 weight
 ```
-
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/16-%E5%85%83%E7%BB%84Tuples/16-03.png)
 
