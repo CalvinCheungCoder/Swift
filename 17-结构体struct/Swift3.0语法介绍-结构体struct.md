@@ -52,6 +52,7 @@ print(point1.y)
 print(point1.pointName)
 ```
 运行结果:
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/17-%E7%BB%93%E6%9E%84%E4%BD%93struct/17-01.png)
 
 ##### 结构体的拷贝
 
@@ -64,6 +65,7 @@ point3.pointName = "The Third Point"
 print(point1, point3)
 ```
 运行结果:
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/17-%E7%BB%93%E6%9E%84%E4%BD%93struct/17-02.png)
 
 ##### 调用结构体中定义的函数
 
@@ -73,5 +75,5 @@ var point4 = PointWithFunc(x: 50, y: 150)
 point4.printPoint()
 ```
 运行结果:
-
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/17-%E7%BB%93%E6%9E%84%E4%BD%93struct/17-03.png)
 
