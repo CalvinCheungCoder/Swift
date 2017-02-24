@@ -32,7 +32,7 @@ let myColor2:ColorWithDesc = ColorWithDesc.blue
 print(myColor2)
 print(myColor2.rawValue)
 ```
-
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/18-%E6%9E%9A%E4%B8%BEenum/18-01.png)
 ##### switch配合使用
 ```Swift
 // 设值
@@ -49,4 +49,6 @@ default:
     break
 }
 ```
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/18-%E6%9E%9A%E4%B8%BEenum/18-02.png)
+
 
