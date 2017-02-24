@@ -22,5 +22,5 @@
 15 | [Swift3.0语法介绍: 类的定义](https://github.com/CalvinCheungCoder/Swift/blob/master/15-%E7%B1%BB%E7%9A%84%E5%AE%9A%E4%B9%89/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E7%B1%BB%E7%9A%84%E5%AE%9A%E4%B9%89.md)
 16 | [Swift3.0语法介绍: 元组Tuples](https://github.com/CalvinCheungCoder/Swift/blob/master/16-%E5%85%83%E7%BB%84Tuples/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E5%85%83%E7%BB%84Tuples.md)
 17 | [Swift3.0语法介绍: 结构体struct](https://github.com/CalvinCheungCoder/Swift/blob/master/17-%E7%BB%93%E6%9E%84%E4%BD%93struct/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E7%BB%93%E6%9E%84%E4%BD%93struct.md)
-
+18 | [Swift3.0语法介绍: 枚举enum](https://github.com/CalvinCheungCoder/Swift/blob/master/18-%E6%9E%9A%E4%B8%BEenum/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E6%9E%9A%E4%B8%BEenum.md)
 
