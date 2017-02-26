@@ -70,5 +70,5 @@ let companyAmount = company.payment()
 print("\(company.companyName)(企业)应付租金\(companyAmount)元")
 company.cancel()
 ```
-
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/20-%E5%8D%8F%E8%AE%AEProtocol%E5%AE%9A%E4%B9%89/20-01.png)
 
