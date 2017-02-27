@@ -25,4 +25,6 @@
 18 | [Swift3.0语法介绍: 枚举enum](https://github.com/CalvinCheungCoder/Swift/blob/master/18-%E6%9E%9A%E4%B8%BEenum/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E6%9E%9A%E4%B8%BEenum.md)
 19 | [Swift3.0语法介绍: 多协议](https://github.com/CalvinCheungCoder/Swift/blob/master/19-%E5%A4%9A%E5%8D%8F%E8%AE%AE/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E5%A4%9A%E5%8D%8F%E8%AE%AE.md)
 20 | [Swift3.0语法介绍: 协议Protocol定义](https://github.com/CalvinCheungCoder/Swift/blob/master/20-%E5%8D%8F%E8%AE%AEProtocol%E5%AE%9A%E4%B9%89/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E5%8D%8F%E8%AE%AEProtocol%E5%AE%9A%E4%B9%89.md)
+21 | [Swift3.0语法介绍: 泛型generic](https://github.com/CalvinCheungCoder/Swift/blob/master/21-%E6%B3%9B%E5%9E%8Bgeneric/Swift3.0%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D-%E6%B3%9B%E5%9E%8Bgeneric.md)
+
 

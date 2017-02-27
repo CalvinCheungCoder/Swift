@@ -34,5 +34,5 @@ objValueCompare(param1: 1, param2: 1)
 objValueCompare(param1: 1.0, param2: 2.0)
 objValueCompare(param1: "hi", param2: "swift")
 ```
-
+![](https://github.com/CalvinCheungCoder/Swift/blob/master/21-%E6%B3%9B%E5%9E%8Bgeneric/21-01.png)
 
